@@ -158,9 +158,10 @@
             <ul>
                 <li><a href="index.html">Home </a></li>
                 <li><a href="about.html">About Us</a></li>
-                <li class="has-dropdown has-dropdown1"><a href="#">Products<i class="fa-solid fa-angle-down"></i></a>
+                <!-- <li><a href="research.html">Products</a></li> -->
+                  <li class="has-dropdown has-dropdown1"><a href="#">Products</a>
                    <ul>
-                        <li  class="has-dropdown has-dropdown1"><a href="" class="main">GACL Products<span><i class="fa-solid fa-angle-right"></i></span></a>
+                        <li  class="has-dropdown has-dropdown1"><a href="" class="main">GACL Products<span></span></a>
                             <ul class="sub-menu">
                                 <li><a href="chlor-alkali-chemicals.php">Chlor-Alkali Chemicals</a></li>
                                 <li><a href="hydrogen-peroxide-chemicals.php">Hydrogen & Peroxide Chemicals</a></li>
@@ -173,7 +174,7 @@
                             </ul>
                         </li>
                         <li><a href="acid-products.php">ACID Products</a></li>
-                        <li  class="has-dropdown has-dropdown1"><a href="" class="main">Industrial Solvents<span><i class="fa-solid fa-angle-right"></i></span></a>
+                        <li  class="has-dropdown has-dropdown1"><a href="" class="main">Industrial Solvents<span></span></a>
                             <ul class="sub-menu">
                                 <li><a href="paint-coating-industry-solvents.php">Paint & Coating Industry Solvents</a></li>
                                 <li><a href="pharmaceutical-chemical-solvents.php">Pharmaceutical & Chemical Solvents</a></li>

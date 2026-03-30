@@ -64,149 +64,107 @@
     <!--=====HERO AREA END=======-->
 
     <!--=====Chlor-Alkali Chemicals AREA START=======-->
-    <div class="service sp">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box sm:mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Caustic-Soda-Lye-NaOH.png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Caustic Soda Lye NaOH</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A liquid alkali widely used in chemical processing, textiles, and paper manufacturing.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
+              <div class="service sp">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box sm:mt-30">
+                    <div class="image">
+                        <img class="w-full" src="assets/img/added/product/Caustic-Soda-Lye-NaOH.png" alt="Caustic Soda Lye">
                     </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box sm:mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Caustic-Soda-Flakes-NaOH.png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Caustic Soda Flakes NaOH</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Solid form of caustic soda used in soap production, detergents, and industrial cleaning.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box sm:mt-30 md:mt-30 ">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Caustic-Soda-Prills-(NaOH).png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Caustic Soda Prills (NaOH)</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Uniform spherical form ideal for controlled usage in chemical and industrial applications.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Liquid-Chlorine.png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Liquid Chlorine (Cl₂)</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A powerful disinfectant used in water treatment, sanitation, and chemical manufacturing.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Hydrochloric-Acid-(HCl).png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Hydrochloric Acid (HCl)</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A strong acid commonly used in metal processing, pH control, and industrial cleaning.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Sodium-Hypochlorite.png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Sodium Hypochlorite (NaOCl)</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An effective bleaching and disinfecting agent widely used in water purification and sanitation.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="research-box mt-30">
-                        <div class="image image-anime _relative">
-                            <img class="w-full" src="assets/img/added/product/Bleaching-Powder.png" alt="">
-                        </div>
-                        <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Bleaching Powder (Ca(OCl)₂)</a></h4>
-                            <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A stable compound used for disinfection, bleaching, and water treatment applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
-                                <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                                <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-    <div class="cta1 sp" style="background: linear-gradient(#2773b7a8, rgba(0, 0, 0, 0.6)), url(assets/img/added/cta-banner.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-5">
-                    <h2 class="text-44 sm:text-30 md:text-30 leading-56 font-semibold white">Ready to Innovate in
-                        Chemical & Metrical?</h2>
-                </div>
-                <div class="col-lg-7">
-                    <div class="buttons text-end md:text-start xs:text-start sm:mt-20 md:mt-20">
-                        <a class="theme-btn1" href="contact.html">Contact Us Now 
-                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
-                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                        </a>
-                        <a class="theme-btn2 ml-16 sm:ml-0 sm:mt-20" href="research.html">Get Inquiry Now 
+                    <div class="heading1">
+                        <h4><a href="caustic-soda-lye.php" class="text-20 leading-20 font-semibold title1">Caustic Soda Lye NaOH</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A liquid alkali widely used in chemical processing, textiles, and paper manufacturing.</p>
+                        <a href="caustic-soda-lye.php" class="learn text-16 leading-16 font-semibold title1"> Read More 
                             <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                             <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                         </a>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-    <!--=====CTA AREA END=======-->
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box sm:mt-30">
+                    <div class="image image-anime _relative">
+                        <img class="w-full" src="assets/img/added/product/Caustic-Soda-Flakes-NaOH.png" alt="Caustic Soda Flakes">
+                    </div>
+                    <div class="heading1">
+                        <h4><a href="caustic-soda-flakes.php" class="text-20 leading-20 font-semibold title1">Caustic Soda Flakes NaOH</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Solid form of caustic soda used in soap production, detergents, and industrial cleaning.</p>
+                        <a href="caustic-soda-flakes.php" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
+                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box sm:mt-30 md:mt-30">
+                    <div class="image image-anime _relative">
+                        <img class="w-full" src="assets/img/added/product/Caustic-Soda-Prills-(NaOH).png" alt="Caustic Soda Prills">
+                    </div>
+                    <div class="heading1">
+                        <h4><a href="caustic-soda-prills.php" class="text-20 leading-20 font-semibold title1">Caustic Soda Prills (NaOH)</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Uniform spherical form ideal for controlled usage in chemical and industrial applications.</p>
+                        <a href="caustic-soda-prills.php" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
+                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box mt-30">
+                    <div class="image image-anime _relative">
+                        <img class="w-full" src="assets/img/added/product/Liquid-Chlorine.png" alt="Liquid Chlorine">
+                    </div>
+                    <div class="heading1">
+                        <h4><a href="liquid-chlorine.php" class="text-20 leading-20 font-semibold title1">Liquid Chlorine (Cl₂)</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A powerful disinfectant used in water treatment, sanitation, and chemical manufacturing.</p>
+                        <a href="liquid-chlorine.php" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
+                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box mt-30">
+                    <div class="image image-anime _relative">
+                        <img class="w-full" src="assets/img/added/product/Hydrochloric-Acid-(HCl).png" alt="Hydrochloric Acid">
+                    </div>
+                    <div class="heading1">
+                        <h4><a href="hydrochloric-acid.php" class="text-20 leading-20 font-semibold title1">Hydrochloric Acid (HCl)</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A strong acid commonly used in metal processing, pH control, and industrial cleaning.</p>
+                        <a href="hydrochloric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
+                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="research-box mt-30">
+                    <div class="image image-anime _relative">
+                        <img class="w-full" src="assets/img/added/product/Sodium-Hypochlorite.png" alt="Sodium Hypochlorite">
+                    </div>
+                    <div class="heading1">
+                        <h4><a href="sodium-hypochlorite.php" class="text-20 leading-20 font-semibold title1">Sodium Hypochlorite (NaOCl)</a></h4>
+                        <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An effective bleaching and disinfecting agent widely used in water purification and sanitation.</p>
+                        <a href="sodium-hypochlorite.php" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
+                            <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> </div> </div> 
+
+
 
     <!--=====FOOTER AREA START=======-->
 

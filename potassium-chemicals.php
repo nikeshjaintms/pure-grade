@@ -108,9 +108,9 @@
                             <img class="w-full" src="assets/img/added/product/Potassium-Carbonate.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Potassium Carbonate</a></h4>
+                            <h4><a href="potassium-carbonate.php" class="text-20 leading-20 font-semibold title1">Potassium Carbonate</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A versatile chemical used in glass manufacturing, detergents, and specialty industrial processes.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="potassium-carbonate.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

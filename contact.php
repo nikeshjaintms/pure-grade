@@ -155,10 +155,10 @@
                                     </div>
                                     <div class="mt-20">
                                         <!-- <button type="submit" class="theme-btn1 inline-block white text-16 leading-16 font-semibold ">Send</button> -->
-                                        <button class="theme-btn1" type="submit">Send Now 
+                                        <a class="theme-btn1" type="submit">Send Now 
                                             <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                             <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
-                                        </button>
+                                        </a>
                                     </div>
                                 </div>
 

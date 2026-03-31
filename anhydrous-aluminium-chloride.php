@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Anhydrous Aluminium Chloride (Technical Grade)",
+    "name" => "Aluminium Chloride",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "28273900",
+    "pack" => "HDPE Drums / Bags",
+    "desc" => "Anhydrous Aluminium Chloride is a white to pale yellow crystalline powder with purity 99.0% min (Grain I: 99.3% min). Water insoluble ≤0.02% (Grain I: 0.01%), non-volatile ≤0.9% (Grain I: 0.7%), free aluminium ≤50 ppm.",
+    "app" => "Used in chemical synthesis, catalyst production, and pharmaceutical manufacturing.",
+    "image" => "assets/img/added/product/Anhydrous-Aluminium-Chloride.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Anhydrous-Aluminium-Chloride.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

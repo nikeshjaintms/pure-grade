@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+      "title" => "Butyl Acetate (C₆H₁₂O₂)",
+    "name" => "Butyl Acetate",
+    "brand" => "-",
+    "hsn" => "29153300",
+    "pack" => "As per requirement",
+    "desc" => "Butyl Acetate is a clear, flammable solvent widely used in coatings, paints, and adhesives due to its excellent solvency and moderate evaporation rate. It may cause eye irritation and drowsiness or dizziness if exposed improperly.",
+    "app" => "Used in paints and coatings, printing inks, adhesives, and as a solvent in various industrial applications.",
+    "image" => "assets/img/added/product/Butyl-Acetate.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Butyl-Acetate.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

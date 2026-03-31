@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+   "title" => "Food Grade Phosphoric Acid (H3PO4)",
+    "name" => "Orthophosphoric Acid",
+    "brand" => "GACL",
+    "hsn" => "28092010",
+    "pack" => "50 kg Bag",
+    "desc" => "Phosphoric acid is commonly encountered in chemical laboratories as an 85% aqueous solution, which is a colourless, odourless, and non-volatile syrupy liquid. Although it is not classified as a strong acid, the 85% solution can severely irritate the skin and damage the eyes.",
+    "app" => "Food-grade phosphoric acid is used to acidify foods and beverages, such as colas and jams, providing a tangy or sour taste. It is also used in soft drinks (phosphate sodas), and excessive consumption may contribute to dental erosion and kidney stones.",
+    "image" => "assets/img/added/product/Food-Grade-Phosphoric-Acid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Food-Grade-Phosphoric-Acid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

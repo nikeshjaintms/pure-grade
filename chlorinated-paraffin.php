@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+      "title" => "Chlorinated Paraffin (CPW)",
+    "name" => "Chlorinated Paraffin",
+    "brand" => "-",
+    "hsn" => "38249900",
+    "pack" => "As per requirement",
+    "desc" => "Chlorinated Paraffin Wax (CPW) is a yellow liquid widely used as a plasticizer and additive in various industrial applications. It is classified as an environmental hazard and may be harmful to aquatic life with long-lasting effects.",
+    "app" => "Used in PVC compounds, rubber processing, paints, sealants, and as a plasticizer and flame retardant in industrial applications.",
+    "image" => "assets/img/added/product/Chlorinated-Paraffin.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Chlorinated-Paraffin.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+      "title" => "Iso Propyl Alcohol (IPA - C₃H₈O)",
+    "name" => "Iso Propyl Alcohol",
+    "brand" => "-",
+    "hsn" => "29051200",
+    "pack" => "As per requirement",
+    "desc" => "Iso Propyl Alcohol (IPA) is a versatile, clear liquid solvent widely used for cleaning, disinfecting, and various industrial applications. It is highly flammable and may cause eye irritation or dizziness if inhaled.",
+    "app" => "Used as a disinfectant, in electronics cleaning, pharmaceutical applications, and as an industrial solvent.",
+    "image" => "assets/img/added/product/Iso-Propyl-Alcohol.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Iso-Propyl-Alcohol.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

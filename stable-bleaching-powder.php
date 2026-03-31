@@ -32,18 +32,21 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Stable Bleaching Powder",
+    "name" => "Calcium Hypochlorite",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "28281000",
+    "pack" => "50 kg Bags",
+    "purity" => "Available Chlorine: 34.0% Min.",
+    "moisture" => "Moisture: 0.3% Max.",
+    "stability" => "Stability: 1/15 Max.",
+    "desc" => "Stable Bleaching Powder is a white powder with available chlorine 34% min, moisture 0.3% max, and stability 1/15 max. It is widely used for disinfection and water treatment.",
+    "app" => "Used in water purification, bleaching textiles, and disinfecting purposes.",
+    "image" => "assets/img/added/product/Stable-Bleaching-Powder.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Stable-Bleaching-Powder.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

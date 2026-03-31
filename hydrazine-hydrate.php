@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+       "title" => "Hydrazine Hydrate (N₂H₄·H₂O)",
+    "name" => "Hydrazine Hydrate",
+    "brand" => "-",
+    "hsn" => "28251000",
+    "pack" => "As per requirement",
+    "desc" => "Hydrazine Hydrate (N₂H₄·H₂O) is a highly reactive and colorless liquid widely used in industrial and chemical applications. It is toxic, corrosive, and potentially carcinogenic, requiring careful handling and safety precautions.",
+    "app" => "Used in water treatment, as a reducing agent, in pharmaceuticals, agrochemicals, and as a precursor in various chemical manufacturing processes.",
+    "image" => "assets/img/added/product/Hydrazine-Hydrate.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Caustic-Potash-Lye.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

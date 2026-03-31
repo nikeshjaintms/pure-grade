@@ -75,9 +75,9 @@
                             <img class="w-full" src="assets/img/added/product/Methylene-Chloride.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Methylene Chloride</a></h4>
+                            <h4><a href="methylene-chloride.php" class="text-20 leading-20 font-semibold title1">Methylene Chloride</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A widely used solvent in pharmaceuticals, paint stripping, and industrial cleaning applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="methylene-chloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -91,9 +91,9 @@
                             <img class="w-full" src="assets/img/added/product/Chloroform.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Chloroform</a></h4>
+                            <h4><a href="chloroform.php" class="text-20 leading-20 font-semibold title1">Chloroform</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A chemical intermediate used in pharmaceuticals, refrigerants, and laboratory applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="chloroform.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -107,9 +107,9 @@
                             <img class="w-full" src="assets/img/added/product/Carbon-Tetrachloride.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Carbon Tetrachloride</a></h4>
+                            <h4><a href="carbon-tetrachloride.php" class="text-20 leading-20 font-semibold title1">Carbon Tetrachloride</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An industrial solvent used in chemical manufacturing and specialised cleaning processes.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="carbon-tetrachloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -123,9 +123,9 @@
                             <img class="w-full" src="assets/img/added/product/Methyl-Chloride.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Methyl Chloride</a></h4>
+                            <h4><a href="methyl-chloride.php" class="text-20 leading-20 font-semibold title1">Methyl Chloride</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A key raw material used in the production of silicones, refrigerants, and agrochemicals.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="methyl-chloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

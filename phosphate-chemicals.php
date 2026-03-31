@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/Phosphoric-Acid-85.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Phosphoric Acid (85%)</a></h4>
+                            <h4><a href="phosphoric-acid.php" class="text-20 leading-20 font-semibold title1">Phosphoric Acid (85%)</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A concentrated acid widely used in fertilisers, food processing, and industrial applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="phosphoric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/Food-Grade-Phosphoric-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Food Grade Phosphoric Acid</a></h4>
+                            <h4><a href="food-grade-phosphoric-acid.php" class="text-20 leading-20 font-semibold title1">Food Grade Phosphoric Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">High-purity acid suitable for use in food and beverage processing applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="food-grade-phosphoric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

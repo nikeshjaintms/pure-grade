@@ -81,9 +81,9 @@
                             <img class="w-full" src="assets/img/added/product/Nitric-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Nitric Acid</a></h4>
+                            <h4><a href="nitric-acid.php" class="text-20 leading-20 font-semibold title1">Nitric Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A strong acid widely used in fertilisers, explosives, and chemical manufacturing.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="nitric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -97,9 +97,9 @@
                             <img class="w-full" src="assets/img/added/product/Acetic-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Acetic Acid</a></h4>
+                            <h4><a href="acetic-acid.php" class="text-20 leading-20 font-semibold title1">Acetic Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A versatile acid used in food processing, chemicals, and textile industries.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="acetic-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -113,9 +113,9 @@
                             <img class="w-full" src="assets/img/added/product/Formic-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Formic Acid</a></h4>
+                            <h4><a href="formic-acid.php" class="text-20 leading-20 font-semibold title1">Formic Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An effective preservative and antibacterial agent used in agriculture and leather processing.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="formic-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -129,9 +129,9 @@
                             <img class="w-full" src="assets/img/added/product/Sulphuric-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Sulphuric Acid</a></h4>
+                            <h4><a href="sulphuric-acid.php" class="text-20 leading-20 font-semibold title1">Sulphuric Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A highly important industrial acid used in fertilisers, batteries, and chemical production.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="sulphuric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -145,9 +145,9 @@
                             <img class="w-full" src="assets/img/added/product/Phosphoric-Acid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Phosphoric Acid</a></h4>
+                            <h4><a href="phosphoric-acid.php" class="text-20 leading-20 font-semibold title1">Phosphoric Acid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A commonly used acid in fertilisers, food additives, and industrial applications.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="phosphoric-acid.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+      "title" => "South African Coal",
+    "name" => "South African Coal",
+    "brand" => "-",
+    "hsn" => "27011200",
+    "pack" => "As per requirement",
+    "desc" => "South African Coal is a high-grade imported bituminous coal known for its consistent quality and high calorific value. It is widely used in various industrial sectors due to its efficient combustion properties.",
+    "app" => "Used in power plants, cement industry, steel manufacturing, and other industrial heating applications.",
+    "image" => "assets/img/added/product/South-African-Coal.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/South-African-Coal.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -81,7 +81,7 @@ $product = [
                 <p class="text-18 mb-10"><b>HSN Code :</b> <?php echo $product['hsn']; ?></p>
                 <p class="text-18 mb-10"><b>Packaging :</b> <?php echo $product['pack']; ?></p>
 
-                <div class="mt-20">
+                    <div class="mt-20">
                     <h5 class="text-20 font-semibold">Description :</h5>
                     <p class="text-16 pera1 leading-26 mt-10"><?php echo $product['desc']; ?></p>
                 </div>

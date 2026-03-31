@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Nitric Acid (HNO₃)",
+    "name" => "Nitric Acid",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "28081000",
+    "pack" => "35–50 kg HDPE / Plastic Drums",
+    "desc" => "Nitric Acid (HNO₃) is a highly corrosive mineral acid and a powerful oxidizing agent. It is a critical raw material in fertilizers, explosives, metal processing, and chemical manufacturing.",
+    "app" => "Used in production of fertilizers (ammonium nitrate), explosives, metal etching, and various chemical manufacturing processes.",
+    "image" => "assets/img/added/product/Nitric-Acid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Nitric-Acid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

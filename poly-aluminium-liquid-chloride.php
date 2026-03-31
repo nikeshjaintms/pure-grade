@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Poly Aluminium Chloride (PAC)",
+    "name" => " PAC 18 (Liquid)",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "28273990",
+    "pack" => "Powder: 25/50 kg PP Bags; Liquid: 50 kg Carbuoys/Tankers",
+    "desc" => "PAC is a yellowish powder or liquid. PAC 30 (Powder) contains 30% with basicity > 35%, insolubles < 9%, pH (5% solution) 2.5–4.5. PAC 18 (Liquid) contains 18% min with basicity > 35%.",
+    "app" => "Used in water treatment, wastewater purification, and as a coagulant in chemical processing.",
+    "image" => "assets/img/added/product/PAC-Liquid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/PAC-Liquid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

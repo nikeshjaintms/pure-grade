@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+       "title" => "NC Thinner",
+    "name" => "NC Thinner",
+    "brand" => "-",
+    "hsn" => "38140010",
+    "pack" => "As per requirement",
+    "desc" => "NC Thinner is a blend of solvents specially designed for thinning nitrocellulose paints and coatings. It is a highly flammable liquid that can cause skin and eye irritation and may lead to dizziness if inhaled.",
+    "app" => "Used as a paint thinner, in automotive coatings, and for industrial cleaning purposes.",
+    "image" => "assets/img/added/product/NC-Thinner.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/NC-Thinner.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

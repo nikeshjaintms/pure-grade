@@ -8,24 +8,6 @@
 
     </div>
 
-    <!-- <div class="preloader-sec">
-        <u><i>
-            </i></u>
-        <div class="app-loader">
-            <svg xmlns="http://www.w3.org/500/svg" viewBox="0 0 32 32">
-                <g>
-                    <path d="m 16.999389,6 a 3,3 0 1 1 3,-3 3.00082,3.00082 0 0 1 -3,3 z" id="path3859" />
-                    <path d="m 23.999389,8 a 2,2 0 1 1 2,-2 1.99884,1.99884 0 0 1 -2,2 z" id="path3857" />
-                    <path d="m 7.9993894,6.4 a 2,2 0 1 1 2,-2 1.99883,1.99883 0 0 1 -2,2 z" id="path3855" />
-                    <path
-                        d="M 2.9720294,30.25 11.026749,15.74608 a 3.303,3.303 0 0 1 0.9726,-1.0078 V 11.5 A 1.89446,1.89446 0 0 1 9.9993494,9.75 1.8918,1.8918 0 0 1 11.999349,8 h 8 a 1.89184,1.89184 0 0 1 2,1.75 1.89449,1.89449 0 0 1 -2,1.75 v 3.23828 a 3.28838,3.28838 0 0 1 0.97168,1.0078 L 29.027709,30.25 A 1.07993,1.07993 0 0 1 27.999389,32 H 3.9993894 a 1.07943,1.07943 0 0 1 -1.02736,-1.75 z"
-                        id="path3853" />
-                    <path d="m 24.888029,28 -2.22168,-4 H 9.3313494 l -2.22064,4 z" id="path3728" />
-                </g>
-            </svg>
-        </div>
-    </div> -->
-
     <header>
         <div class="header-top4">
             <div class="container">
@@ -71,10 +53,10 @@
                         <div class="header-elements">
                             <div class="site-logo">
                                 <a href="index.php">
-                                    <img src="assets/img/added/logo.png" alt="">
+                                    <img src="assets/img/added/blue-logo.png" alt="Pure Grade Exim LLP">
                                 </a>
-                            </div>
-                            <div class="main-menu-ex main-menu-ex1">
+                                </div>
+                                <div class="main-menu-ex main-menu-ex1">
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
 
@@ -137,7 +119,7 @@
             <div class="col-12">
                 <div class="mobile-header-elements">
                     <div class="mobile-logo">
-                        <a href="index.html"><img src="assets/img/added/logo.png" alt=""></a>
+                        <a href="index.html"><img src="assets/img/added/blue-logo.png" alt="Pure Grade Exim LLP"></a>
                     </div>
                     <div class="mobile-nav-icon">
                         <i class="fa-duotone fa-bars-staggered"></i>
@@ -149,7 +131,7 @@
 
     <div class="mobile-sidebar d-block d-lg-none">
         <div class="logo-m">
-            <a href="index.html"><img src="assets/img/added/logo.png" alt=""></a>
+            <a href="index.html"><img src="assets/img/added/blue-logo.png" alt="Pure Grade Exim LLP"></a>
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>
@@ -158,8 +140,7 @@
             <ul>
                 <li><a href="index.html">Home </a></li>
                 <li><a href="about.html">About Us</a></li>
-                <!-- <li><a href="research.html">Products</a></li> -->
-                  <li class="has-dropdown has-dropdown1"><a href="#">Products</a>
+                <li class="has-dropdown has-dropdown1"><a href="#">Products</a>
                    <ul>
                         <li  class="has-dropdown has-dropdown1"><a href="" class="main">GACL Products<span></span></a>
                             <ul class="sub-menu">

@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/Butyl-Acetate.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Butyl Acetate</a></h4>
+                            <h4><a href="butyl-acetate.php" class="text-20 leading-20 font-semibold title1">Butyl Acetate</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A high-performance solvent used in paint thinners, coatings, and lacquers.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="butyl-acetate.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -105,9 +105,9 @@
                             <img class="w-full" src="assets/img/added/product/NC-Thinner.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">NC Thinner</a></h4>
+                            <h4><a href="nc-thinner.php" class="text-20 leading-20 font-semibold title1">NC Thinner</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An industrial solvent blend used for effective thinning of paints and coatings.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="nc-thinner.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

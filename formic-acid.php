@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+     "title" => "Formic Acid (HCOOH)",
+    "name" => "Formic Acid",
+    "brand" => "GNFC",
+    "hsn" => "29151100",
+    "pack" => "35 kg Carboys",
+    "desc" => "Formic Acid (Methanoic Acid) is an important intermediate in chemical synthesis and occurs naturally, most notably in some ants. The word 'formic' comes from the Latin word 'formica', meaning ant, referring to its early isolation by the distillation of ant bodies. Esters, salts, and the anion derived from formic acid are called formates. Industrially, formic acid is produced from methanol.",
+    "app" => "Used in cleaning products as a substitute for mineral acids, in chemical synthesis, and as a fuel in formic acid fuel cells or indirectly in hydrogen fuel cells.",
+    "image" => "assets/img/added/product/Formic-Acid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Formic-Acid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

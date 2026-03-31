@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+     "title" => "Acetic Acid (CH₃COOH)",
+    "name" => "Acetic Acid",
+    "brand" => "GNFC",
+    "hsn" => "29152100",
+    "pack" => "30 kg Carboys",
+    "desc" => "Acetic acid is the second simplest carboxylic acid (after formic acid). It consists of a methyl group attached to a carboxyl group. It is an important chemical reagent and industrial chemical, used primarily in the production of cellulose acetate for photographic film, polyvinyl acetate for wood glue, and synthetic fibers and fabrics. In households, diluted acetic acid is often used in descaling agents.",
+    "app" => "Vinyl acetate monomer production, Ester production, Acetic anhydride manufacture, Use as a solvent, Medical applications, Food industry uses.",
+    "image" => "assets/img/added/product/Acetic-Acid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Acetic-Acid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

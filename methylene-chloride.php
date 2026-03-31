@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Methylene Chloride (CH2Cl2)",
+    "name" => "Dichloromethane",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "29031100",
+    "pack" => "HDPE Drums / Barrels",
+    "desc" => "Methylene Chloride is a colourless, non-flammable liquid with a purity of 99.90% min. It has moisture ≤200 ppm, acidity as HCl ≤1.0 ppm, and APHA ≤10.00.",
+    "app" => "Used in paint removers, degreasing, pharmaceutical manufacturing, and chemical synthesis.",
+    "image" => "assets/img/added/product/Methylene-Chloride.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Methylene-Chloride.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

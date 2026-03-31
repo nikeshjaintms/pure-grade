@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+     "title" => "Sulphuric Acid (H₂SO₄)",
+    "name" => "Sulphuric Acid",
+    "brand" => "-",
+    "hsn" => "28070010",
+    "pack" => "As per requirement (Kgs)",
+    "desc" => "Sulphuric acid is a highly important mineral acid and a key commodity chemical. A nation’s sulphuric acid production is often considered an indicator of its industrial strength. It is widely produced using processes such as the contact process, wet sulphuric acid process, and lead chamber process. It plays a crucial role in the chemical industry.",
+    "app" => "Used in the manufacturing of phosphoric acid, in the iron and steel industry, in lead-acid batteries for vehicles, and as a dehydrating agent in its concentrated form.",
+    "image" => "assets/img/added/product/Sulphuric-Acid.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Sulphuric-Acid.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

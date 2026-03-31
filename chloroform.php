@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Chloroform (CHCl3)",
+    "name" => "Trichloromethane",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "29031200",
+    "pack" => "HDPE Drums / Barrels",
+    "desc" => "Chloroform is a colourless, volatile liquid with a purity of 99.90% min. Specific gravity (15°C/4°C) ranges 1.498 - 1.502, moisture ≤130 ppm, and free chlorine ≤1.0 ppm.",
+    "app" => "Used in pharmaceutical manufacturing, chemical synthesis, and as a solvent in laboratories.",
+    "image" => "assets/img/added/product/Chloroform.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Chloroform.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

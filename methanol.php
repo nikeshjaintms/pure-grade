@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+     "title" => "Methanol (CH₃OH)",
+    "name" => "Methanol",
+    "brand" => "-",
+    "hsn" => "29051100",
+    "pack" => "As per requirement",
+    "desc" => "Methanol (CH₃OH) is a simple alcohol widely used as a solvent, fuel, and chemical feedstock. It is valued for its high purity, versatility, and its role as a fundamental building block in industrial chemistry.",
+    "app" => "Used as a solvent, fuel, antifreeze, and in the production of formaldehyde, acetic acid, and other chemicals. Also used in pharmaceuticals and various industrial applications.",
+    "image" => "assets/img/added/product/Methanol.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Methanol.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

@@ -32,18 +32,23 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
+    "title" => "Benzyl Chloride",
+    "name" => "Benzyl Chloride",
     "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "hsn" => "29211990",
+    "pack" => "Drums / HDPE Containers",
+    "purity" => "Assay (GLC): 99.5% Min.",
+    "appearance" => "Colourless clear liquid",
+    "specific_gravity" => "1.094 - 1.095 (27°C)",
+    "low_boiling_impurities" => "0.2% Max.",
+    "high_boiling_impurities" => "0.3% Max.",
+    "desc" => "Benzyl Chloride is a colourless clear liquid with assay 99.5% min. It is used in chemical manufacturing and as an intermediate in various organic synthesis processes.",
+    "app" => "Used in pharmaceuticals, dyes, and chemical intermediate production.",
+    "image" => "assets/img/added/product/Benzyl-Chloride.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Benzyl-Chloride.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

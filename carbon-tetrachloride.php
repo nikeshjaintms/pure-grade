@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+     "title" => "Carbon Tetrachloride (CCl₄)",
+    "name" => "Carbon Tetrachloride",
+    "brand" => "-",
+    "hsn" => "29031400",
+    "pack" => "As per requirement",
+    "desc" => "Carbon Tetrachloride (CCl₄) is a clear liquid widely used in industrial applications. It is a toxic and carcinogenic substance and must be handled with extreme care. Exposure may cause liver and kidney damage and is harmful if inhaled.",
+    "app" => "Used as a solvent in industrial processes, in the production of refrigerants, and as an intermediate in chemical manufacturing.",
+    "image" => "assets/img/added/product/Carbon-Tetrachloride.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Carbon-Tetrachloride.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

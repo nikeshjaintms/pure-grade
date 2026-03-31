@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+      "title" => "Caustic Potash Lye (KOH Solution)",
+    "name" => "Caustic Potash Lye",
+    "brand" => "-",
+    "hsn" => "28152000",
+    "pack" => "As per requirement",
+    "desc" => "Caustic Potash Lye (Potassium Hydroxide Solution - KOH) is a clear liquid highly alkaline solution widely used in industrial applications. It is a corrosive substance and can cause severe skin burns and eye damage if not handled properly.",
+    "app" => "Used in liquid soap manufacturing, chemical processing, fertilizers, batteries, and various industrial cleaning applications.",
+    "image" => "assets/img/added/product/Caustic-Potash-Lye.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Caustic-Potash-Lye.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

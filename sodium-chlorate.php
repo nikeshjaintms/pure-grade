@@ -32,18 +32,18 @@ include 'header.php';
 
 
 $product = [
-    "title" => "Liquid Chlorine ",
-    "name" => "Liquid Chlorine ",
-    "brand" => "Gujarat Alkalies and Chemicals Limited",
-    "hsn" => "28151200",
-    "pack" => "cylinders",
-    "desc" => "Liquid Chloride (Chlorine Liquid) is a highly reactive chemical mainly used for water purification and disinfection. It effectively kills bacteria and harmful microorganisms.",
-    "app" => "UGreenish yellow liquid under pressure. .",
-    "image" => "assets/img/added/product/Liquid-Chlorine.png"
+    "title" => "Sodium Chlorate (NaClO3)",
+    "name" => "Sodium Chlorate",
+    "brand" => "–",
+    "hsn" => "28299090",
+    "pack" => "50 kgs",
+    "desc" => "Sodium chlorate is a strong oxidizing agent used in herbicides, bleaching of pulp, and chemical manufacturing. It is usually handled as a white crystalline solid.",
+    "app" => "Used in herbicide production, pulp and paper bleaching, and as an oxidizer in chemical processes.",
+    "image" => "assets/img/added/product/Sodium-Chlorate.png"
 ];
 ?>
 
-<div class="common-hero" style="background-image: url(assets/img/added/product/Liquid-Chlorine.png);">
+<div class="common-hero" style="background-image: url(assets/img/added/product/Sodium-Chlorate.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">

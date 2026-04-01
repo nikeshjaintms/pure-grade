@@ -77,7 +77,7 @@
 
             <div class="row align-items-center coppy-right1">
                 <div class="col-lg-6">
-                    <p class="text-16 font-normal pera1 leading-26">ⓒCopyright 2026 PURE GRADE EXIM LLP . All rights reserved</p>
+                    <p class="text-14 font-normal pera1 leading-26">ⓒCopyright 2026 PURE GRADE EXIM LLP . All rights reserved Designed and Developed by <span><a href="https://www.techomaxsolution.com/" target="_blank" class="text-14 font-normal pera1 leading-26">Techomax Solution</a></span></p>
                 </div>
                 <div class="col-lg-6">
                     <div class="conditons-area1">

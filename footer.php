@@ -5,7 +5,7 @@
                 <div class="col-lg-4">
                     <div class="logo-area">
                         <a href="index.php">
-                            <img src="assets/img/added/logo.png" alt="" width="250px">
+                            <img src="assets/img/added/blue-logo.png" alt="" width="250px">
                         </a>
                         <p class="mt-16 text-16 font-normal pera1 leading-">Global Trade. Trusted Quality. Connecting industries with reliable chemicals, commodities, and raw materials.</p>
                         <ul class="footer-social-area1 mt-20">

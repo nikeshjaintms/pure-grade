@@ -47,7 +47,7 @@
                             <h1 class="md:text-40 text-60 font-semibold white">Trading with Integrity, Growing Together.</h1>
                             <p class="mt-24 text-16 leading-26 white font-normal">Global Trade, Pure Quality Connecting Industries from Local Roots to Global Reach, Supplying the World with Integrity and Commitment.</p>
                             <div class="buttons mt-30">
-                                <a class="theme-btn1" href="research.html">Know More
+                                <a class="theme-btn1" href="about.php">Know More
                                     <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                     <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                                 </a>
@@ -168,7 +168,7 @@
                             </div>
                         </div>
                         <div class="button mt-30" data-aos="fade-left" data-aos-duration="800" data-aos-delay="200">
-                            <a class="theme-btn3" href="research.html">Send Inquiry 
+                            <a class="theme-btn3" href="contact.php">Send Inquiry 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -203,10 +203,10 @@
                         </div>
                         <div class="heading1">
                             <h4>
-                                <a href="research-details1.html" class="text-20 leading-20 font-semibold title1">Import & Export </a>
+                                <a href="#" class="text-20 leading-20 font-semibold title1">Import & Export </a>
                             </h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">We specialize in connecting domestic industries with international markets through seamless import and export solutions.</p>
-                            <a href="service-details.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="#" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -221,10 +221,10 @@
                         </div>
                         <div class="heading1">
                             <h4>
-                                <a href="research-details1.html" class="text-20 leading-20 font-semibold title1">Domestic Trade </a>
+                                <a href="#" class="text-20 leading-20 font-semibold title1">Domestic Trade </a>
                             </h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">PURE GRADE EXIM LLP is a trusted partner for local industries, offering dependable supply chains and timely delivery across India.</p>
-                            <a href="service-details.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="#" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -239,9 +239,9 @@
                         </div>
                         <div class="heading1">
                             <h4>
-                                <a href="research-details1.html" class="text-20 leading-20 font-semibold title1">Logistics Support </a></h4>
+                                <a href="#" class="text-20 leading-20 font-semibold title1">Logistics Support </a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Beyond trading, we provide complete logistics support to simplify the movement of goods.</p>
-                            <a href="service-details.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="#" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -658,10 +658,10 @@ background-repeat: no-repeat;">
                 </div>
                 <div class="col-lg-7">
                     <div class="buttons text-end md:text-start xs:text-start sm:mt-20 md:mt-20">
-                        <a class="theme-btn1" href="contact.html">Contact Us Now <span class="arrow1"><i
+                        <a class="theme-btn1" href="contact.php">Contact Us Now <span class="arrow1"><i
                                     class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i
                                     class="fa-solid fa-arrow-right"></i></span></a>
-                        <a class="theme-btn2 ml-16 sm:ml-0 sm:mt-20" href="research.html">Get Inquiry Now <span
+                        <a class="theme-btn2 ml-16 sm:ml-0 sm:mt-20" href="contact.php">Get Inquiry Now <span
                                 class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i
                                     class="fa-solid fa-arrow-right"></i></span></a>
                     </div>

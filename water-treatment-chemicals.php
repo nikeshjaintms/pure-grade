@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/Poly-Aluminium-Chloride-Powder.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Poly Aluminium Chloride (PAC) Powder</a></h4>
+                            <h4><a href="poly-aluminium-chloride.php" class="text-20 leading-20 font-semibold title1">Poly Aluminium Chloride (PAC) Powder</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A high-performance coagulant used for effective water and wastewater treatment.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="poly-aluminium-chloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/PAC-Liquid.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">PAC Liquid</a></h4>
+                            <h4><a href="poly-aluminium-liquid-chloride.php" class="text-20 leading-20 font-semibold title1">PAC Liquid</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A liquid coagulant designed for convenient and efficient water treatment processes.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="poly-aluminium-liquid-chloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -105,9 +105,9 @@
                             <img class="w-full" src="assets/img/added/product/Stable-Bleaching-Powder.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Stable Bleaching Powder</a></h4>
+                            <h4><a href="stable-bleaching-powder.php" class="text-20 leading-20 font-semibold title1">Stable Bleaching Powder</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A reliable disinfectant used for water purification and sanitation applications.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="stable-bleaching-powder.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

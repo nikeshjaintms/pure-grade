@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/Iso-Propyl-Alcohol.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Iso Propyl Alcohol (IPA)</a></h4>
+                            <h4><a href="isopropyl-alcohol.php" class="text-20 leading-20 font-semibold title1">Iso Propyl Alcohol (IPA)</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A versatile solvent used in pharmaceuticals, disinfectants, and cleaning applications.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="isopropyl-alcohol.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/Methanol.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Methanol</a></h4>
+                            <h4><a href="methanol.php" class="text-20 leading-20 font-semibold title1">Methanol</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A key chemical solvent used in synthesis, manufacturing, and industrial processes.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="methanol.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

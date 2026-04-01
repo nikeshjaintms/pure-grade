@@ -5,7 +5,7 @@
                 <div class="col-lg-4">
                     <div class="logo-area">
                         <a href="index.php">
-                            <img src="assets/img/added/logo.png" alt="" width="250px">
+                            <img src="assets/img/added/blue-logo.png" alt="" width="250px">
                         </a>
                         <p class="mt-16 text-16 font-normal pera1 leading-">Global Trade. Trusted Quality. Connecting industries with reliable chemicals, commodities, and raw materials.</p>
                         <ul class="footer-social-area1 mt-20">
@@ -77,7 +77,7 @@
 
             <div class="row align-items-center coppy-right1">
                 <div class="col-lg-6">
-                    <p class="text-16 font-normal pera1 leading-26">ⓒCopyright 2026 PURE GRADE EXIM LLP . All rights reserved</p>
+                    <p class="text-14 font-normal pera1 leading-26">ⓒCopyright 2026 PURE GRADE EXIM LLP . All rights reserved Designed and Developed by <span><a href="https://www.techomaxsolution.com/" target="_blank" class="text-14 font-normal pera1 leading-26">Techomax Solution</a></span></p>
                 </div>
                 <div class="col-lg-6">
                     <div class="conditons-area1">

@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/IMP-Indonesian-Coal.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">IMP. Indonesian Coal</a></h4>
+                            <h4><a href="indonesian-coal.php" class="text-20 leading-20 font-semibold title1">IMP. Indonesian Coal</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">High-quality imported coal known for consistent performance and efficient energy output.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="indonesian-coal.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/South-African-Coal.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">South African Coal</a></h4>
+                            <h4><a href="south-african-coal.php" class="text-20 leading-20 font-semibold title1">South African Coal</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Premium-grade coal offering high calorific value and reliable combustion properties.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="south-african-coal.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -105,9 +105,9 @@
                             <img class="w-full" src="assets/img/added/product/Screen-Coal.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Screen Coal</a></h4>
+                            <h4><a href="screen-coal.php" class="text-20 leading-20 font-semibold title1">Screen Coal</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">Sized and graded coal suitable for industrial boilers and energy applications.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="screen-coal.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -121,9 +121,9 @@
                             <img class="w-full" src="assets/img/added/product/Bio-Coal.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Bio Coal (Briquette and Pallets)</a></h4>
+                            <h4><a href="bio-coal.php" class="text-20 leading-20 font-semibold title1">Bio Coal (Briquette and Pallets)</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An eco-friendly fuel alternative made from biomass, offering sustainable energy solutions.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="bio-coal.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

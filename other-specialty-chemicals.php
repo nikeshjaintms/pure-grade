@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/Sodium-Chlorate.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Sodium Chlorate</a></h4>
+                            <h4><a href="sodium-chlorate.php" class="text-20 leading-20 font-semibold title1">Sodium Chlorate</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A strong oxidising agent used in paper, pulp, and chemical manufacturing industries.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="sodium-chlorate.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -89,9 +89,9 @@
                             <img class="w-full" src="assets/img/added/product/Hydrazine-Hydrate.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Hydrazine Hydrate</a></h4>
+                            <h4><a href="hydrazine-hydrate.php" class="text-20 leading-20 font-semibold title1">Hydrazine Hydrate</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A reactive chemical used in pharmaceuticals, agrochemicals, and water treatment processes.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="hydrazine-hydrate.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -105,9 +105,9 @@
                             <img class="w-full" src="assets/img/added/product/Chlorinated-Paraffin.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Chlorinated Paraffin</a></h4>
+                            <h4><a href="chlorinated-paraffin.php" class="text-20 leading-20 font-semibold title1">Chlorinated Paraffin</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A versatile additive used in lubricants, plastics, and flame-retardant applications.</p><br>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="chlorinated-paraffin.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
@@ -121,9 +121,9 @@
                             <img class="w-full" src="assets/img/added/product/Benzyl-Chloride.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Benzyl Chloride</a></h4>
+                            <h4><a href="benzyl-chloride.php" class="text-20 leading-20 font-semibold title1">Benzyl Chloride</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">An important intermediate used in the production of pharmaceuticals, dyes, and resins.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="benzyl-chloride.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>

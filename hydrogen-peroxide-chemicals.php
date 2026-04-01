@@ -73,9 +73,9 @@
                             <img class="w-full" src="assets/img/added/product/Hydrogen-Peroxide.png" alt="">
                         </div>
                         <div class="heading1">
-                            <h4><a href="" class="text-20 leading-20 font-semibold title1">Hydrogen Peroxide</a></h4>
+                            <h4><a href="hydrogen-peroxide.php" class="text-20 leading-20 font-semibold title1">Hydrogen Peroxide</a></h4>
                             <p class="mb-20 mt-16 text-16 font-normal pera1 leading-26">A versatile oxidising agent widely used in bleaching, disinfection, and water treatment processes.</p>
-                            <a href="research-details1.html" class="learn text-16 leading-16 font-semibold title1">Read More 
+                            <a href="hydrogen-peroxide.php" class="learn text-16 leading-16 font-semibold title1">Read More 
                                 <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span>
                                 <span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span>
                             </a>
